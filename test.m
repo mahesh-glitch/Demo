@@ -1,0 +1,1 @@
+data = dlmread('2.ffs'); 
